@@ -1,0 +1,250 @@
+shapes    1-1
+Albert    2-1
+while    5-1
+far    2-2    1-1
+recognized    3-1
+playing    3-1
+logical    1-1
+body    4-1
+other    2-1    4-1
+well    4-1
+when    1-1
+whether    2-1
+fun    5-1
+patterns,[2][3]    0-1
+certain;    2-1
+well-defined    4-1
+skating    4-1
+new    0-1    1-1
+line    4-1
+back    1-1
+measurement,    1-1
+they    2-3
+800,    1-1
+result    4-1
+systematic    1-1
+governed    3-1
+are    5-3    3-3    2-3    4-1
+played    5-1
+appropriately    0-1
+strategy,    3-1
+reality,    2-1
+creations.    2-1
+Rigorous    1-1
+has    1-1
+interacting    1-1
+led    1-1
+Activities    3-1
+Practical    1-1
+such    3-1    2-1    4-3
+defined    3-1
+define    4-1
+conclusions".[6]    2-1
+Non-competitive    3-1
+Mathematics    0-1    1-1
+goals    4-1
+pageants    4-1
+certain,    2-1
+set    3-1
+axioms    0-1
+This    4-1
+degree    4-1
+mathematics    2-2    1-2
+sports[citation    3-1
+"the    2-1
+events    4-1
+points    2-1
+"mind    3-1
+Elements.    1-1
+skills    3-1
+It    3-1
+be    3-1    4-1
+refer    2-2
+objects.    1-1
+often    5-1    4-1
+games    3-1
+conjectures,    0-1
+play,    3-1
+source    5-1
+necessary    2-1
+according    4-1
+innovations    1-1
+involvement.    3-1
+performance    4-1
+numbers    2-1
+not    2-2    4-2
+evolved    1-1
+out    0-1
+objects    2-1
+entertaining,    3-1
+rigorous    0-1
+Euclid's    1-1
+continued    1-1
+can    3-1
+catch    3-1
+mathematical    2-1    1-2
+deduction    0-1
+an    3-1
+entertainment.    5-1
+Mathematicians    0-1
+establish    0-1
+diving,    4-1
+requiring    3-2
+for    5-3    3-1    1-2
+structure,    0-1
+a    5-1    3-2    4-2    1-2
+primarily    3-1
+called    2-1
+card    3-1
+have    4-1
+skillful    3-1
+scientific    1-1
+simple    5-1
+fact    5-1
+classified    3-2
+that    5-1    2-2    1-1
+as    3-5    2-4    4-4    1-2
+Greek    1-1
+in    5-2    3-1    4-2    1-9
+100,    1-1
+dressage    4-1
+hand,    2-1
+draws    2-1
+where    4-1
+develop,    1-1
+scoring    4-1
+Olympic    3-1
+chosen    0-1
+sport.    4-1
+major    5-1
+professional    5-1
+organized,    3-1
+example    3-1    1-1
+Through    1-1
+failures    5-1
+most    5-2    1-1
+or    5-1    3-2    2-1    4-1
+objective    3-1
+shown    4-1
+human    2-1    1-1
+China    1-1
+Einstein,    2-1
+discoveries    1-1
+activity    3-1    1-1
+notably    1-1
+AD    1-2
+Peirce    2-1
+"as    2-1
+over    2-1
+activities,    3-1
+exist    2-1
+space,    0-1
+to    5-1    2-2    4-2    1-3
+rate    1-1
+activities    4-1
+Renaissance,    1-1
+from    0-1    1-1
+India    1-1
+needed],    3-1
+quantity,    0-1
+motions    1-1
+exist.    1-1
+defined.    4-1
+fair    3-1
+However,    5-1    4-1
+reality."[7]    2-1
+accomplishments    5-1
+stated    2-1
+day.[5]    1-1
+good    5-1
+board    3-1
+change.    0-1
+and    3-5    0-3    1-4    5-2    4-4    2-2
+is    5-1    3-2    0-1    4-2    2-1
+stay    5-1
+highest    5-1
+mathematician    2-1
+Sports    5-1
+BC,    1-1
+300    1-1
+world    1-1
+building,    4-1
+updated    5-1
+skill    4-2
+does    4-1
+reasoning,    1-1
+abstraction    1-1
+physical    5-1    3-1    1-1
+Records    5-1
+judged    4-2
+records    1-1
+levels,    5-1
+rapid    1-1
+commitment,    3-1
+A    3-1
+do    2-1
+by    3-2    0-1
+contrast    4-1
+crossing    4-1
+There    2-1
+beauty    4-1
+of    3-2    0-1    1-4    5-1    4-2    2-1
+definitions.[4]    0-1
+use    1-1
+customs.    3-1
+criteria    4-1
+Benjamin    2-1
+sports"    3-1
+with    4-1    1-1
+condition.    5-1
+means.    3-1
+at    5-1
+news.    5-1
+first    4-1    1-1
+the    5-2    0-1    4-3    2-2    1-7
+truth    0-1
+calculation,    1-1
+sports    5-1    4-1
+recreation.    3-1
+study    0-1    1-1
+naturally    2-1
+widely    5-1
+need    5-1
+science    2-1
+until    1-1
+increase    1-1
+debate    2-1
+formulate    0-1
+written    1-1
+present    1-1
+competitive,    3-1
+arguments    1-1
+winner    3-1
+just    5-1
+forms    3-1
+laws    2-1
+continues    1-1
+some    3-1    4-1
+Muslim    1-1
+discovery    1-1
+criteria.    4-1
+mathematics,    1-1
+usually    3-1
+kept    5-1
+counting,    1-1
+announced    5-1
+on    2-1
+sport    5-2    3-1
+been    1-1
+The    2-1
+Physical    4-1
+appeared    1-1
+jogging    3-1
+mental    3-2
+seek    0-1
+rules    3-1
+games,    3-1
+exercise    5-1
+people    5-1
+figure    4-1
+which    3-1

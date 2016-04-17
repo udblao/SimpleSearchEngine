@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="" method="post">
+        <input type="text" placeholder="{{ index }}" name="index"/>
+            <input type="radio" name="search" value="BasicSearch" checked>
+        BasicSearch
+            <input type="radio" name="search" value="BooleanSearch">
+        BooleanSearch
+            <input type="radio" name="search" value="VectorSpaceSearch">
+        VectorSpaceSearch
+        <input type="submit" value="search"/><br>
+        <hr>
+        <div>
+            {% if ids %}
+                Result ID:
+                {% for id in ids %}
+                    {{ id }}
+                {% endfor %}
+            {% endif %}
+        </div>
+        <hr>
+        <div>
+            {% if ids %}
+                {% for id in paths.keys() %}
+                    Document: {{ id }}
+                    <li>{{ paths[id] }}<br>
+                        {{ contents[id] }}</li>
+                    <hr>
+                {% endfor %}
+            {% endif %}
+        </div>
+
+
+    </form>
+</body>
+</html>

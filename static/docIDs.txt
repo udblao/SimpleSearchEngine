@@ -1,0 +1,6 @@
+0	G:/2016_Spring/SimpleSearchEngine/static/documents/math1.txt
+1	G:/2016_Spring/SimpleSearchEngine/static/documents/math2.txt
+2	G:/2016_Spring/SimpleSearchEngine/static/documents/math3.txt
+3	G:/2016_Spring/SimpleSearchEngine/static/documents/sports1.txt
+4	G:/2016_Spring/SimpleSearchEngine/static/documents/sports2.txt
+5	G:/2016_Spring/SimpleSearchEngine/static/documents/sports3.txt
